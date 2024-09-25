@@ -1,4 +1,4 @@
-## Seallt DApp
+## Seallt dApp
 The repository is designed to facilitate the management of contracts on the Aptos blockchain. This project provides a comprehensive framework for deploying, interacting with, and managing contracts efficiently.
 
 ### About Aptos Blockchain
